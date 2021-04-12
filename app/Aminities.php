@@ -17,4 +17,6 @@ class Aminities extends Model
 	protected $fillable = [
 		'name', 'fa_code',
 	];
+
+	//
 }
