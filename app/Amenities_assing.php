@@ -17,4 +17,5 @@ class Amenities_assing extends Model
 	protected $fillable = [
         'pro_id', 'amenities_id',
 	];
+	//hello
 }
